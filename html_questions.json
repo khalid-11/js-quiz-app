@@ -1,0 +1,122 @@
+[
+  {
+    "title": "why we use <br> element",
+    "answer_1": "to bake text bold",
+    "answer_2": "to bake text italic",
+    "answer_3": "to add breakline",
+    "answer_4": "to add horizontal line ",
+    "right_answer": "to add breakline"
+  },
+  {
+    "title": "is <img> element had attribute href",
+    "answer_1": "yes",
+    "answer_2": "no its for anchor tag <a>",
+    "answer_3": "all element has this attribute",
+    "answer_4": "answer 1 and 3 is right",
+    "right_answer": "no its for anchor tag <a>"
+  },
+  {
+    "title": "how can we make element text bold",
+    "answer_1": "putting it inside <b> tag",
+    "answer_2": "putting it inside <strong> tag",
+    "answer_3": "customizing it with font-weight: property in CSS",
+    "answer_4": "all answers is right",
+    "right_answer": "all answers is right"
+  },
+  {
+    "title": "how can we include external page inside our html page",
+    "answer_1": "by using include in HTML",
+    "answer_2": "by using load in HTML",
+    "answer_3": "by using iframe tag",
+    "answer_4": "all solutions is wrong ",
+    "right_answer": "by using iframe tag"
+  },
+  {
+    "title": "What is the purpose of the <div> element?",
+    "answer_1": "To create a clickable button",
+    "answer_2": "To define a container for content",
+    "answer_3": "To apply styling and fonts",
+    "answer_4": "To display an image",
+    "right_answer": "To define a container for content"
+  },
+  {
+    "title": "What does CSS stand for?",
+    "answer_1": "Cascading Style Sheet",
+    "answer_2": "Computer Style Sheet",
+    "answer_3": "Creative Style Sheet",
+    "answer_4": "Colorful Style Sheet",
+    "right_answer": "Cascading Style Sheet"
+  },
+  {
+    "title": "Which HTML tag is used to create an ordered list?",
+    "answer_1": "<ul>",
+    "answer_2": "<li>",
+    "answer_3": "<ol>",
+    "answer_4": "<dl>",
+    "right_answer": "<ol>"
+  },
+  {
+    "title": "What is the purpose of the <a> element in HTML?",
+    "answer_1": "To create a table",
+    "answer_2": "To add an image",
+    "answer_3": "To define a paragraph",
+    "answer_4": "To create hyperlinks",
+    "right_answer": "To create hyperlinks"
+  },
+  {
+    "title": "Which programming language is often used for front-end web development?",
+    "answer_1": "Java",
+    "answer_2": "Python",
+    "answer_3": "HTML",
+    "answer_4": "CSS",
+    "right_answer": "HTML"
+  },
+  {
+    "title": "What does JavaScript primarily add to a web page?",
+    "answer_1": "Structure",
+    "answer_2": "Behavior",
+    "answer_3": "Colors",
+    "answer_4": "Fonts",
+    "right_answer": "Behavior"
+  },
+  {
+    "title": "What is the role of a front-end developer?",
+    "answer_1": "Server configuration",
+    "answer_2": "Back-end development",
+    "answer_3": "Designing user interfaces",
+    "answer_4": "Database management",
+    "right_answer": "Designing user interfaces"
+  },
+  {
+    "title": "Which CSS property is used to change the text color of an element?",
+    "answer_1": "font-size",
+    "answer_2": "text-align",
+    "answer_3": "background-color",
+    "answer_4": "color",
+    "right_answer": "color"
+  },
+  {
+    "title": "What is the purpose of media queries in CSS?",
+    "answer_1": "To create animations",
+    "answer_2": "To load external libraries",
+    "answer_3": "To apply styles based on screen size",
+    "answer_4": "To validate forms",
+    "right_answer": "To apply styles based on screen size"
+  },
+  {
+    "title": "Which HTML element is used to create a hyperlink?",
+    "answer_1": "<link>",
+    "answer_2": "<href>",
+    "answer_3": "<a>",
+    "answer_4": "<url>",
+    "right_answer": "<a>"
+  },
+  {
+    "title": "What is the purpose of the <img> element in HTML?",
+    "answer_1": "To display images",
+    "answer_2": "To create paragraphs",
+    "answer_3": "To define lists",
+    "answer_4": "To format text",
+    "right_answer": "To display images"
+  }
+]
